@@ -18,7 +18,7 @@ const Drawer = createDrawerNavigator();
 const InnerDashboard1 = ({navigation}) => {
   return (
     <View>
-      <Text>iner das1</Text>
+      <Text>inner das1</Text>
     </View>
   );
 };
